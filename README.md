@@ -51,7 +51,7 @@ PIVOT (
 ) AS pivoted_data;
 ```
 
-> [Explore Pivoting in SQL](https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/pivot-table.html)
+> [Explore Pivoting in SQL](https://github.com/MarcoMinozzo/MySQL_Operational_Procedures/blob/main/pivoting_techniques_and_string_manipulation.md)
 
 ---
 
