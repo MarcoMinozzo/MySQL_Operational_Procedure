@@ -1,6 +1,6 @@
 ## Operational Procedure for Common Table Expressions (CTEs) in SQL
 
----
+
 CTEs are a powerful tool in SQL for improving query readability and managing complex queries. They are particularly useful in scenarios where recursive logic is needed or when breaking down queries into modular, reusable components is beneficial.
 
 #### 1. **What are CTEs?**
