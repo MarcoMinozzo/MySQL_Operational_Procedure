@@ -34,7 +34,7 @@ SELECT * FROM total_sales;
 ## 3. Big Data and Cloud Computing Integration
 SQL's integration with big data and cloud platforms (such as Apache Hive, Google BigQuery, and Amazon Redshift) allows it to scale and query massive datasets efficiently. Modern SQL engines are designed to handle distributed data storage and computation in cloud environments.
 
-> [Learn More About SQL and Big Data](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax)
+> [Learn More About SQL and Big Data](https://github.com/MarcoMinozzo/MySQL_Operational_Procedures/blob/main/cloud_computing_SQL_Integration.md)
 
 ---
 
