@@ -1,4 +1,4 @@
-# Operacional Procedure – Window Functions in SQL
+## Operacional Procedure – Window Functions in SQL
 
 This manual covers the most important concepts related to SQL window functions. For more technical details and examples, refer to the official documentation from [PostgreSQL](https://www.postgresql.org/docs/current/tutorial-window.html) or [Oracle SQL](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/SQL-Window-Functions.html).
 
