@@ -58,7 +58,7 @@ PIVOT (
 ## 5. Emerging Trends: AI and Machine Learning Integration
 SQL is increasingly being used with AI and machine learning tools to provide predictive analytics and automate data-driven tasks. SQL-based platforms such as Google BigQuery ML allow users to run ML models directly on SQL datasets, streamlining the data science workflow.
 
-> [AI and SQL Integration](https://cloud.google.com/bigquery-ml)
+> [AI and SQL Integration](https://github.com/MarcoMinozzo/MySQL_Operational_Procedures/blob/main/AI_ML_integration.md)
 
 ---
 
