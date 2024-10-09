@@ -27,7 +27,7 @@ WITH total_sales AS (
 SELECT * FROM total_sales;
 ```
 
-> [Dive Deeper into CTEs](https://docs.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql)
+> [Dive Deeper into CTEs](https://github.com/MarcoMinozzo/MySQL_Operational_Procedures/blob/main/common_table_expressions.md)
 
 ---
 
