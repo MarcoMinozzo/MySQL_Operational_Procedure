@@ -1,6 +1,6 @@
 ## Operational Procedure for Big Data and Cloud Computing SQL Integration
 
----
+
 SQL remains an essential tool in the age of Big Data and Cloud Computing. Whether integrated with distributed big data systems like Hadoop or deployed in cloud platforms like BigQuery or Redshift, SQL continues to adapt to the growing demand for large-scale data processing and analysis.
 
 #### 1. **Overview**
