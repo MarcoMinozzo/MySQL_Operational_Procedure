@@ -10,7 +10,7 @@ Key functions:
 - **ROW_NUMBER()**: Assigns a unique number to each row in a partition.
 - **LAG() / LEAD()**: Accesses data from preceding or following rows.
 
-> [Learn More About Window Functions](https://www.postgresql.org/docs/current/tutorial-window.html)
+> [Learn More About Window Functions](https://github.com/MarcoMinozzo/MySQL_Operational_Procedures/blob/main/windows_functions.md)
 
 ---
 
