@@ -1,6 +1,5 @@
 ## Operational Procedure for Pivoting Techniques and String Manipulation in SQL
 
----
 Pivoting and string manipulation are essential techniques for transforming and preparing data for analysis and reporting in SQL. By mastering these techniques, you can reshape your datasets and manipulate text to suit a wide range of analytical and operational needs.
 
 #### 1. **Overview of Pivoting and String Manipulation in SQL**
